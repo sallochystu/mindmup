@@ -4,14 +4,23 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "Configuration",
+      "title": "Config",
       "id": 2,
       "ideas": {
         "1": {
-          "title": "Dispatcher Servlet",
+          "title": "Dispatcher-Servlet",
           "id": 3
         }
       }
+    },
+    "2": {
+      "title": "TipsNTricks",
+      "id": 6
+    },
+    "-1": {
+      "title": "Integration",
+      "id": 4,
+      "ideas": {}
     }
   }
 }
